@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#pos{
+	margin-top:120px;
+}
+#log{
+	width:50px;
+	height:40px;
+	background-color: #3487ff;
+	border: none;
+}
+#reg{
+	width:150px;
+	height:40px;
+	background-color: #3487ff;
+	border: none;
+}
+.pos{
+	margin-left: 200px
+}
